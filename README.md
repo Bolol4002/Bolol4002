@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sayooj!
+🔧 3rd Year B.Tech ECE Student at KLH University
+📍 Hyderabad, Telangana, India
+📚 Currently Learning: Embedded Systems & FPGA Design
+🔗 LinkedIn
 
-<!--
-**Bolol4002/Bolol4002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Design Tools: Cadence, Vivado
+Languages: VHDL, Verilog, C
+Platforms: FPGA, Embedded Systems
 
-Here are some ideas to get you started:
+📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Contribution Graph
+
+📫 Contact Me
+
+Feel free to reach out via LinkedIn
+ or open an issue here on GitHub.

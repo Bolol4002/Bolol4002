@@ -1,4 +1,4 @@
-## Hi, I am Erica Grundy! 
+## Hi, Iam Sayooj S, currently pursuing BTECH in ECE, specialized in VLSI! 
 </br>
 
  <div>

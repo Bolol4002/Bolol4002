@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello my name is Sayooj S<br>Pursuing BTECH in ECE<br>Specialized in VLSI
+> Hello my name is Sayooj S<br>Pursuing BTECH in ECE<br>Specialized in VLSI
 
 
 ## 🌐 Socials:

@@ -1,24 +1,145 @@
-# 💫 About Me:
-> Hello my name is Sayooj S<br>Pursuing BTECH in ECE<br>Specialized in VLSI
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ███████╗ █████╗ ██╗   ██╗ ██████╗  ██████╗      ██╗    ███████╗           ║
+║   ██╔════╝██╔══██╗╚██╗ ██╔╝██╔═══██╗██╔═══██╗     ██║    ██╔════╝           ║
+║   ███████╗███████║ ╚████╔╝ ██║   ██║██║   ██║     ██║    ███████╗           ║
+║   ╚════██║██╔══██║  ╚██╔╝  ██║   ██║██║   ██║██   ██║    ╚════██║           ║
+║   ███████║██║  ██║   ██║   ╚██████╔╝╚██████╔╝╚█████╔╝    ███████║           ║
+║   ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝  ╚════╝     ╚══════╝           ║
+║                                                                              ║
+║                    [ VLSI Engineer • Linux Enthusiast ]                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayooj._.s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayooj-s-7a8580285) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SayoojS1112) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayoojsumesh1112@gmail.com) 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;Sayooj+S+%7C+ECE+Undergrad+%7C+VLSI+Specialist;%24+cat+%2Fetc%2Fpassion;Designing+Chips+%7C+Writing+Code+%7C+Breaking+Linux;%24+neofetch+--ascii_distro+arch;BTW+I+use+Arch" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bolol4002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bolol4002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolol4002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bolol4002&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bolol4002&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bolol4002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bolol4002&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" width="320" />
+
+### `> cat /etc/about_me`
+
+```bash
+┌──(sayooj㉿silicon)─[~/life]
+└─$ neofetch
+
+   sayooj@silicon
+   ──────────────────
+   🎓 BTech ECE @ Specialized in VLSI
+   💾 Chip Designer in Training
+   🐧 Linux Terminal Addict
+   ⚡ Low-Level Code Enthusiast
+   🔧 Hardware meets Software
+   
+   ┌─────────────────────────────────┐
+   │ "From Gates to Glory"           │
+   │  - Designing the future,        │
+   │    one transistor at a time.    │
+   └─────────────────────────────────┘
+```
+
+---
+
+### `> ls -la ~/skills/`
+
+<div align="center">
+
+**`// HARDWARE & VLSI`**
+
+![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logo=verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-DAA520?style=for-the-badge&logo=systemverilog&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+**`// LANGUAGES`**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**`// ML & DATA`**
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+**`// TOOLS`**
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+
+</div>
+
+---
+
+### `> systemctl status github.service`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Bolol4002&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00" height="180"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Bolol4002&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" height="180"/>
+
+</div>
+
+---
+
+### `> cat /var/log/achievements.log`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Bolol4002&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+---
+
+### `> git log --oneline contributions`
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Bolol4002&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+---
+
+### `> cat ~/.ssh/socials.pub`
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sayooj._.s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayooj-s-7a8580285)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SayoojS1112)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayoojsumesh1112@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   █▀▀ █▀█ █▄░█ █▄░█ █▀▀ █▀▀ ▀█▀   █░█░█ █ ▀█▀ █░█   █▀▄▀█ █▀▀              │
+│   █▄▄ █▄█ █░▀█ █░▀█ ██▄ █▄▄ ░█░   ▀▄▀▄▀ █ ░█░ █▀█   █░▀░█ ██▄              │
+│                                                                              │
+│            ┌─────────────────────────────────────────────────┐               │
+│            │  "Hardware is hard, but so am I." - Anonymous   │               │
+│            └─────────────────────────────────────────────────┘               │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://komarev.com/ghpvc/?username=Bolol4002&style=for-the-badge&color=00ff00&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer&animation=twinkling"/>
+
+</div>

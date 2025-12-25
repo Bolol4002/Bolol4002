@@ -90,11 +90,11 @@
 
 ---
 
-### `> cat /var/log/achievements.log`
+### `> open ~/portfolio.html`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bolol4002&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" />
+[![Portfolio](https://img.shields.io/badge/🚀_My_Portfolio-00ff00?style=for-the-badge&logo=github&logoColor=black)](https://bolol4002.github.io/portfolio/)
 
 </div>
 

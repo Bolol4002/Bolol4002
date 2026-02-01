@@ -10,65 +10,63 @@
 ║   ███████║██║  ██║   ██║   ╚██████╔╝╚██████╔╝╚█████╔╝    ███████║           ║
 ║   ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝  ╚═════╝  ╚════╝     ╚══════╝           ║
 ║                                                                              ║
-║                    [ VLSI Engineer • Linux Enthusiast ]                      ║
+║                    VLSI Engineer • Systems Architect                         ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;Sayooj+S+%7C+ECE+Undergrad+%7C+VLSI+Specialist;%24+cat+%2Fetc%2Fpassion;Designing+Chips+%7C+Writing+Code+%7C+Breaking+Linux;%24+neofetch+--ascii_distro+arch;BTW+I+use+Arch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Building+silicon.+Writing+systems.+Solving+problems.;Chip+Design+%7C+Embedded+Systems+%7C+Low-Level+Programming;Where+Hardware+Meets+Software" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="280" alt="Batman" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="280" alt="Coding" />
 
-### `> cat /etc/about_me`
+### `> whoami`
 
 ```bash
-┌──(sayooj㉿silicon)─[~/life]
-└─$ neofetch
+┌──(sayooj㉿silicon)─[~]
+└─$ cat profile.txt
 
-   sayooj@silicon
-   ──────────────────
-   🎓 BTech ECE @ Specialized in VLSI
-   💾 Chip Designer in Training
-   🐧 Linux Terminal Addict
-   ⚡ Low-Level Code Enthusiast
-   🔧 Hardware meets Software
+   Electronics & Communication Engineer
+   Specialization: VLSI Design
    
-   ┌─────────────────────────────────┐
-   │ "From Gates to Glory"           │
-   │  - Designing the future,        │
-   │    one transistor at a time.    │
-   └─────────────────────────────────┘
+   ├─ Architecting digital circuits
+   ├─ Optimizing system performance  
+   ├─ Engineering embedded solutions
+   └─ Exploring the silicon-software interface
+   
+   "Precision in design. Elegance in execution."
 ```
+
+<br clear="right"/>
 
 ---
 
-### `> ls -la ~/skills/`
+### `> ls /expertise`
 
 <div align="center">
 
-**`// HARDWARE & VLSI`**
+**`HARDWARE DESIGN`**
 
 ![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-DAA520?style=for-the-badge&logo=systemverilog&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-**`// LANGUAGES`**
+**`SYSTEMS PROGRAMMING`**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**`// ML & DATA`**
+**`MACHINE LEARNING`**
 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-**`// TOOLS`**
+**`DEVELOPMENT TOOLS`**
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -79,7 +77,7 @@
 
 ---
 
-### `> systemctl status github.service`
+### `> git stats --all`
 
 <div align="center">
 
@@ -90,17 +88,17 @@
 
 ---
 
-### `> open ~/portfolio.html`
+### `> curl https://sayooj.dev/portfolio`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🚀_My_Portfolio-00ff00?style=for-the-badge&logo=github&logoColor=black)](https://bolol4002.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_View_Portfolio-00ff00?style=for-the-badge&logo=github&logoColor=black)](https://bolol4002.github.io/portfolio/)
 
 </div>
 
 ---
 
-### `> git log --oneline contributions`
+### `> cat /proc/activity`
 
 <div align="center">
 
@@ -110,7 +108,7 @@
 
 ---
 
-### `> cat ~/.ssh/socials.pub`
+### `> ping -c 4 sayooj.social`
 
 <div align="center">
 
@@ -126,19 +124,15 @@
 <div align="center">
 
 ```
-╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                                                             ║
-║    ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗    ██╗    ██╗██╗████████╗██╗  ██╗    ███╗   ███╗███████╗   ║
-║   ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝    ██║    ██║██║╚══██╔══╝██║  ██║    ████╗ ████║██╔════╝   ║
-║   ██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║       ██║ █╗ ██║██║   ██║   ███████║    ██╔████╔██║█████╗     ║
-║   ██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║       ██║███╗██║██║   ██║   ██╔══██║    ██║╚██╔╝██║██╔══╝     ║
-║   ╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║       ╚███╔███╔╝██║   ██║   ██║  ██║    ██║ ╚═╝ ██║███████╗   ║
-║    ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝        ╚══╝╚══╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝     ╚═╝╚══════╝   ║
-║                                                                                                                             ║
-╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│  "From transistors to algorithms. From circuits to systems.                │
+│   Engineering the future, one commit at a time."                           │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Bolol4002&style=for-the-badge&color=00ff00&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Bolol4002&style=for-the-badge&color=00ff00&label=VISITORS" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer&animation=twinkling"/>
 

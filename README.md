@@ -15,6 +15,10 @@ Electronics & Communication Engineer specializing in VLSI Design.
 
 ---
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bolol4002?cardType=level-alternate&theme=gruvbox&fontFamily=Ubuntu%20Mono&preferLogin=false)](https://git.io/awesome-stats-card)
+
+---
+
 ### Find me
 
 - Portfolio: [bolol4002.github.io/portfolio](https://bolol4002.github.io/portfolio/)

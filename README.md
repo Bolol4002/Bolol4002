@@ -21,7 +21,7 @@ Electronics & Communication Engineer specializing in VLSI Design.
 
 ### Find me
 
-- Portfolio: [bolol4002.github.io/portfolio](https://sayoojs-batman.vercel.app)
+- Portfolio: [https://sayoojs-batman.vercel.app](https://sayoojs-batman.vercel.app)
 - LinkedIn: [Sayooj S](https://linkedin.com/in/sayooj-s-7a8580285)
 - X: [@SayoojS1112](https://x.com/SayoojS1112)
 - Email: sayoojsumesh1112@gmail.com
